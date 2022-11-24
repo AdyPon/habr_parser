@@ -1,0 +1,6 @@
+pandas
+beautifulsoup4
+tqdm
+fake_useragent
+aiohttp
+aiohttp_socks
