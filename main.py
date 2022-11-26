@@ -139,4 +139,4 @@ if __name__ == "__main__":
 
     parser = HabrParser('habr.csv', my_proxies + proxies)
 
-    parser.start(continue_parsing=True)
+    parser.start()
