@@ -5,3 +5,4 @@ fake_useragent
 aiohttp
 aiohttp_socks
 aiohttp_retry
+requests
