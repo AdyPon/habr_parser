@@ -6,3 +6,4 @@ aiohttp
 aiohttp_socks
 aiohttp_retry
 requests
+lxml
